@@ -24,7 +24,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "is-descriptor": "^1.0.2",
+    "is-descriptor": "^3.0.0",
     "isobject": "^3.0.1"
   },
   "devDependencies": {
